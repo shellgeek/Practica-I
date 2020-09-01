@@ -15,7 +15,7 @@ namespace P2
             numOne= double.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese otra Cantidad...:");
             numTwo=double.Parse(Console.ReadLine());
-            Console.WriteLine("----------OPRERACIONES ARITMETICAS---------\n");
+            Console.WriteLine("----------OPERACIONES ARITMETICAS---------\n");
             Console.WriteLine("La suma de " + numOne + " + " + numTwo +" es {0}", numOne + numTwo) ;
             Console.WriteLine("La resta de " + numOne + " - " + numTwo +" es {0}", numOne - numTwo) ;
             Console.WriteLine("La multiplicación de " + numOne + " x " + numTwo +" es {0}", numOne * numTwo) ;
